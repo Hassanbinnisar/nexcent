@@ -1,0 +1,68 @@
+.logo{
+    
+    margin-left:50px ;
+    
+}
+
+.head{
+    margin-right: 300px;
+}
+.text{
+    color:#4D4D4D ;
+    word-spacing: 2px;
+    
+}
+.textb{
+    color: #4CAF4F;
+}
+.textc{
+    color: #717171;
+}
+.bt{
+    background-color: #4CAF4F;
+    border: #4CAF4F;
+
+}
+.toget{
+    display: flex;
+    justify-items: center;
+    padding: 120px;
+gap: 28px;
+}
+.our{
+    color: #4D4D4D;
+    margin-left: 700px;
+}
+.we{
+   
+   color: #717171;
+    margin-left: 600px
+
+}
+.logohas{
+    margin-left: 100px;
+    word-spacing: 200px;
+}
+.man{
+    margin-left: 450px;
+    color: #4D4D4D;
+}
+.pics{
+word: spacing 40px;
+display: flex;
+flex-wrap: wrap;
+}
+.pell{
+    text-align: center;
+    color:#263238;
+    
+}
+.hw{
+    text-align: center;
+}
+.back{
+    background-color: #263238;
+    ;
+    color: white;
+    
+}
